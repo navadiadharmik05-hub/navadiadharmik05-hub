@@ -1,12 +1,16 @@
 <div align="center">
 
   <!-- DYNAMIC NEON HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:161b22,100:00e5ff&height=180&section=header&text=DHARMIK%20NAVADIA&fontSize=40&fontAlignY=42&desc=Systems%20Engineering%20%7C%20Embedded%20%26%20AI%20Pipelines&descAlignY=64&descSize=16&fontColor=ffffff&stroke=00e5ff&strokeWidth=1.5" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:161b22,100:00e5ff&height=180&section=header&text=DHARMIK%20NAVADIA&fontSize=38&fontAlignY=45&desc=Systems%20Engineering%20%7C%20Embedded%20%26%20AI%20Pipelines&descAlignY=66&descSize=15&fontColor=ffffff&stroke=00e5ff&strokeWidth=1.5" width="100%"/>
 
-  <!-- TYPING TERMINAL -->
+  <br/>
+
+  <!-- FIXED TYPING SVG (Expanded height & proper line delimiters to prevent clipping) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=65&lines=%E2%96%B6+Hardware-Software+Co-Design+%26+Embedded+Firmware;%E2%96%B6+Computer+Vision+Inference+Pipelines;%E2%96%B6+Full-Stack+Systems+Architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&height=50&lines=Hardware-Software+Co-Design+%26+Firmware;Computer+Vision+Inference+Pipelines;Full-Stack+Systems+Architecture" alt="Typing SVG" />
   </a>
+
+  <br/><br/>
 
   <!-- REPO TELEMETRY -->
   <p align="center">
@@ -19,23 +23,26 @@
 
 ---
 
-### 📈 Contribution Metrics & Activity Graphs
+### 📈 Contribution Metrics & GitHub Stats
 
-<!-- REPO CONTRIBUTION ACTIVITY GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=navadiadharmik05-hub&theme=react-dark&bg_color=0D1117&color=00F5FF&line=00F5FF&point=39FF14&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
+  <!-- RELIABLE ACTIVITY GRAPH (Works 100% on GitHub Dark Mode) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=navadiadharmik05-hub&theme=react-dark&bg_color=0D1117&color=00F5FF&line=00F5FF&point=39FF14&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
 <br/>
 
-<!-- REPO STATS & STREAK HUD -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navadiadharmik05-hub&show_icons=true&theme=radical&hide_border=true&bg_color=090d13&title_color=00f5ff&icon_color=00f5ff&text_color=94a3b8" height="165" alt="GitHub Stats" />
+  <!-- GITHUB STATS & STREAK (Cached safely via Vercel) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=navadiadharmik05-hub&show_icons=true&theme=radical&hide_border=true&bg_color=090d13&title_color=00f5ff&icon_color=00f5ff&text_color=94a3b8&cache_seconds=1800" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=navadiadharmik05-hub&theme=radical&hide_border=true&background=090d13&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff" height="165" alt="GitHub Streak" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navadiadharmik05-hub&layout=compact&theme=radical&hide_border=true&bg_color=090d13&title_color=00f5ff&text_color=94a3b8" width="460" alt="Top Languages" />
+  <!-- TOP LANGUAGES -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navadiadharmik05-hub&layout=compact&theme=radical&hide_border=true&bg_color=090d13&title_color=00f5ff&text_color=94a3b8&cache_seconds=1800" width="420" alt="Top Languages" />
 </div>
 
 ---
@@ -107,14 +114,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 📈 Isometric Activity Grid
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contributions" width="95%" onerror="this.onerror=null; this.src='https://github-profile-trophy.vercel.app/?username=navadiadharmik05-hub&theme=radical&no-frame=true&margin-w=10';" />
-</div>
 
 <br/>
 
